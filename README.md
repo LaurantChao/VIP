@@ -1,0 +1,2 @@
+# VIP
+Variational Implicit Processes
